@@ -1,1 +1,1 @@
-set(OF_HEADER_FILES ${OF_HEADER_FILES} include PARENT_SCOPE)
+# Nothing to do here for OSX
